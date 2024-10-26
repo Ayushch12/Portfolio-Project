@@ -14,4 +14,5 @@
 
 - **Syntax of Shadows**: The code meticulously follows SQL conventions, ensuring each column and table is summoned precisely as required.
 
-![Uploading Entity-Relationship Diagram (ERD.png…]()
+![Entity-Relationship Diagram (ERD](https://github.com/user-attachments/assets/d4856351-94fa-4a77-b4a9-a94dc312bbc6)
+
